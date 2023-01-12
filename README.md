@@ -1,4 +1,4 @@
-# ISLR
+# ISLR - Python Practicing
 ![ISLR_template](https://user-images.githubusercontent.com/102001395/212060600-537e6de4-4ec3-4243-8327-27277e552043.png)
 
 PT:
